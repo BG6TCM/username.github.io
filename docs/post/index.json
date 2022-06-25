@@ -1,0 +1,35 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Post on C++之路",
+    "description": "Recent content in Post on C++之路",
+    "home_page_url": "https://cpp.github.io/",
+    "feed_url": "https://cpp.github.io/post/index.json",
+    "language": "en-GB",
+    "icon": "https://cpp.github.io/apple-touch-icon.png",
+    "favicon": "https://cpp.github.io/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "Your Name",
+            "url": "https://example.org/somepage",
+            "avatar": "https://cpp.github.io/path/to/some-image.jpg"
+        }
+    ],
+    "items": [
+        {
+            "title": "Hello",
+            "date_published": "2022-06-25T20:58:10+08:00",
+            "date_modified": "2022-06-25T20:58:10+08:00",
+            "id": "https://cpp.github.io/post/hello/",
+            "url": "https://cpp.github.io/post/hello/",
+            "content_html": ""
+        },
+        {
+            "title": "Hi",
+            "date_published": "2022-06-25T18:17:03+08:00",
+            "date_modified": "2022-06-25T18:17:03+08:00",
+            "id": "https://cpp.github.io/post/hi/",
+            "url": "https://cpp.github.io/post/hi/",
+            "content_html": ""
+        }
+        ]
+}
